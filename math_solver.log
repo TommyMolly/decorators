@@ -1,0 +1,8 @@
+[2024-09-16 21:04:01] Function 'discriminant' called with args: (1, 8, 15), kwargs: {}. Returned: 4
+[2024-09-16 21:04:01] Function 'solution' called with args: (1, 8, 15), kwargs: {}. Returned: (-3.0, -5.0)
+[2024-09-16 21:04:01] Function 'discriminant' called with args: (1, -13, 12), kwargs: {}. Returned: 121
+[2024-09-16 21:04:01] Function 'solution' called with args: (1, -13, 12), kwargs: {}. Returned: (12.0, 1.0)
+[2024-09-16 21:04:01] Function 'discriminant' called with args: (-4, 28, -49), kwargs: {}. Returned: 0
+[2024-09-16 21:04:01] Function 'solution' called with args: (-4, 28, -49), kwargs: {}. Returned: 3.5
+[2024-09-16 21:04:01] Function 'discriminant' called with args: (1, 1, 1), kwargs: {}. Returned: -3
+[2024-09-16 21:04:01] Function 'solution' called with args: (1, 1, 1), kwargs: {}. Returned: корней нет
